@@ -46,26 +46,16 @@
         </dict>
       </dict>
     </dict>
-    <key>NSBluetoothAlwaysUsageDescription</key>
-    <string>This app may need access to your Bluetooth connection</string>
-    <key>NSBluetoothPeripheralUsageDescription</key>
-    <string>This app may need access to your Bluetooth connection</string>
-    <key>NSCalendarsUsageDescription</key>
-    <string>This app requires access to the calendar</string>
-    <key>NSCameraUsageDescription</key>
-    <string>The camera can be used to open apps by scanning a QR code.</string>
     <key>NSFaceIDUsageDescription</key>
     <string>Enabling Face ID allows you quick and secure access to your account.</string>
     <key>NSLocationAlwaysUsageDescription</key>
-    <string>To use that feature the app needs access to your location.</string>
+    <string>To use that feature, the app needs access to your location.</string>
     <key>NSLocationWhenInUseUsageDescription</key>
-    <string>To use that feature the app needs access to your location.</string>
+    <string>To use that feature, the app needs access to your location.</string>
     <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-    <string>To use that feature the app needs access to your location.</string>
-    <key>NSMicrophoneUsageDescription</key>
-    <string>To use that feature the app needs access to your microphone.</string>
+    <string>To use that feature, the app needs access to your location.</string>
     <key>NSPhotoLibraryUsageDescription</key>
-    <string>To use that feature the app needs access to your photo library.</string>
+    <string>To use that feature, the app needs access to your photo library.</string>
     <key>Runtime url</key>
     <string>$(RUNTIME_URL)</string>
     <key>TargetName</key>
@@ -111,5 +101,7 @@
     <array>
       <string>remote-notification</string>
     </array>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>To use that feature, the app needs access to your photo library.</string>
   </dict>
 </plist>
