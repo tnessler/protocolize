@@ -5,4 +5,4 @@ BUNDLE_IDENTIFIER = br.com.trestentos.protocolize
 
 RUNTIME_URL = http:\/\/localhost:8080
 
-PRODUCT_NAME = nativeTemplate
+PRODUCT_NAME = Protocolize
