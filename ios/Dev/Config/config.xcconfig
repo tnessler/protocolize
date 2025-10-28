@@ -4,4 +4,4 @@ MAIN_STORY_BOARD = LaunchApp
 BUNDLE_DISPLAY_NAME = Dev-Protocolize
 BUNDLE_IDENTIFIER_APPEND = .developerapp
 
-PRODUCT_NAME = NativeTemplateDev
+PRODUCT_NAME = ProtocolizeDev
