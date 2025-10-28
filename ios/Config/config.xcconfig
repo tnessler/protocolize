@@ -1,7 +1,7 @@
 PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 
 BUNDLE_DISPLAY_NAME = Protocolize
-BUNDLE_IDENTIFIER = com.mendix.native.template
+BUNDLE_IDENTIFIER = br.com.trestentos.protocolize
 
 RUNTIME_URL = http:\/\/localhost:8080
 
