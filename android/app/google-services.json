@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649577405234",
+    "project_id": "protocolize-3tentos",
+    "storage_bucket": "protocolize-3tentos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649577405234:android:18e6ac83970683fac5552b",
+        "android_client_info": {
+          "package_name": "br.com.trestentos.protocolize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649577405234-olfqi1lb07m5q6nt2llf0qsh6f6jhof5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5x_gXvgTQFrSV5Attqwc_IIhbA7_5dJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649577405234-olfqi1lb07m5q6nt2llf0qsh6f6jhof5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
